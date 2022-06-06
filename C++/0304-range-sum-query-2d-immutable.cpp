@@ -1,6 +1,6 @@
 class NumMatrix {
 public:
-    NumMatrix(vector<vector<int>>& matrix)
+    NumMatrix(const vector<vector<int>>& matrix)
         : sums(matrix.size() + 1, vector<int>(matrix[0].size() + 1))
     {
         const int m = matrix.size();
@@ -13,7 +13,7 @@ public:
         }
     }
 
-    int sumRegion(int row1, int col1, int row2, int col2) {
+    int sumRegion(const int row1, const int col1, const int row2, const int col2) {
         return sums[row2 + 1][col2 + 1] - sums[row1][col2 + 1] - sums[row2 + 1][col1] + sums[row1][col1];
     }
 

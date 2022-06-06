@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxProduct(vector<string>& words) {
+    int maxProduct(const vector<string>& words) {
         const int n = words.size();
         vector<uint32_t> bitsets(n);
 

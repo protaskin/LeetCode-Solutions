@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> runningSum(vector<int>& nums) {
+    vector<int> runningSum(const vector<int>& nums) {
         const int n = nums.size();
         vector<int> result(n);
         int sum = 0;

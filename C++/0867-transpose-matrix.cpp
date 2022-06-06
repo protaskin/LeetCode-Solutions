@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> transpose(vector<vector<int>>& matrix) {
+    vector<vector<int>> transpose(const vector<vector<int>>& matrix) {
         const int m = matrix.size();
         const int n = matrix[0].size();
 

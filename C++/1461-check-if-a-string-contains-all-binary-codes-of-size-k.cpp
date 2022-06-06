@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool hasAllCodes(string s, int k) {
+    bool hasAllCodes(const string s, const int k) {
         const int n = s.size();
         if (k >= n) {
             return false;

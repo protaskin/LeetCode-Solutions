@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
+    int missingNumber(const vector<int>& nums) {
         const int n = nums.size();
         int result = n;
         for (int i = 0; i < n; ++i) {
