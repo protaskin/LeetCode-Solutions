@@ -14,6 +14,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](C++/0268-missing-number.cpp) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](C++/0191-number-of-1-bits.cpp) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](C++/0088-merge-sorted-array.cpp) | Easy |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](C++/0051-n-queens.cpp) | Hard |
 
 ## Copyright and License
 
