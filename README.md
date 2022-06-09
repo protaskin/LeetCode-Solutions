@@ -8,6 +8,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | - | ----- | -------- | ---------- |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](C++/1480-running-sum-of-1d-array.cpp) | Easy |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](C++/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | Medium |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [C++](C++/1332-remove-palindromic-subsequences.cpp) | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [C++](C++/0867-transpose-matrix.cpp) | Easy |
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [C++](C++/0318-maximum-product-of-word-lengths.cpp) | Medium |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](C++/0304-range-sum-query-2d-immutable.cpp) | Medium |
