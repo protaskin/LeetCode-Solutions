@@ -14,6 +14,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](C++/0304-range-sum-query-2d-immutable.cpp) | Medium |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](C++/0268-missing-number.cpp) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](C++/0191-number-of-1-bits.cpp) | Easy |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](C++/0167-two-sum-ii-input-array-is-sorted.cpp) | Medium |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](C++/0160-intersection-of-two-linked-lists.cpp) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](C++/0088-merge-sorted-array.cpp) | Easy |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](C++/0052-n-queens-ii.cpp) | Hard |
