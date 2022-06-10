@@ -19,6 +19,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](C++/0088-merge-sorted-array.cpp) | Easy |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](C++/0052-n-queens-ii.cpp) | Hard |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](C++/0051-n-queens.cpp) | Hard |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](C++/0003-longest-substring-without-repeating-characters.cpp) | Medium |
 
 ## Copyright and License
 
