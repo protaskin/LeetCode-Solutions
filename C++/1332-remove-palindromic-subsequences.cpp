@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int removePalindromeSub(const string s) {
+    int removePalindromeSub(const string_view s) {
         int l = 0;
         int r = s.size() - 1;
         while (l < r) {

@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(const string s) {
+    int lengthOfLongestSubstring(const string_view s) {
         const int n = s.size();
 
         array<int, 128> pos; // Assuming that s contains only ASCII characters
