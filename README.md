@@ -16,6 +16,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](C++/0191-number-of-1-bits.cpp) | Easy |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](C++/0167-two-sum-ii-input-array-is-sorted.cpp) | Medium |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](C++/0160-intersection-of-two-linked-lists.cpp) | Easy |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [C++](C++/0120-triangle.cpp) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](C++/0088-merge-sorted-array.cpp) | Easy |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](C++/0052-n-queens-ii.cpp) | Hard |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](C++/0051-n-queens.cpp) | Hard |
