@@ -1,9 +1,3 @@
-struct Constraints {
-    uint32_t colons;
-    uint32_t ldiags;
-    uint32_t rdiags;
-};
-
 class Solution {
 public:
     vector<vector<string>> solveNQueens(const int n) {
@@ -40,4 +34,11 @@ public:
         solve(0, {});
         return result;
     }
+
+private:
+    struct Constraints {
+        uint32_t colons;
+        uint32_t ldiags;
+        uint32_t rdiags;
+    };
 };
