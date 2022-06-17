@@ -10,6 +10,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](C++/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | Medium |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [C++](C++/1342-number-of-steps-to-reduce-a-number-to-zero.cpp) | Easy |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [C++](C++/1332-remove-palindromic-subsequences.cpp) | Easy |
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [C++](C++/0968-binary-tree-cameras.cpp) | Hard |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [C++](C++/0867-transpose-matrix.cpp) | Easy |
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [C++](C++/0318-maximum-product-of-word-lengths.cpp) | Medium |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](C++/0304-range-sum-query-2d-immutable.cpp) | Medium |
