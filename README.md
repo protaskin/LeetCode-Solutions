@@ -8,6 +8,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 | - | ----- | -------- | ---------- |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](C++/1480-running-sum-of-1d-array.cpp) | Easy |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](C++/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | Medium |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](C++/1423-maximum-points-you-can-obtain-from-cards.cpp) | Medium |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [C++](C++/1342-number-of-steps-to-reduce-a-number-to-zero.cpp) | Easy |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [C++](C++/1332-remove-palindromic-subsequences.cpp) | Easy |
 | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [C++](C++/0968-binary-tree-cameras.cpp) | Hard |
