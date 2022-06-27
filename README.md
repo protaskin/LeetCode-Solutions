@@ -6,6 +6,7 @@ Yet another collection of solutions to LeetCode problems. Written (mostly) in C+
 
 | # | Title | Solution | Difficulty |
 | - | ----- | -------- | ---------- |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [C++](C++/1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](C++/1480-running-sum-of-1d-array.cpp) | Easy |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](C++/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | Medium |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](C++/1423-maximum-points-you-can-obtain-from-cards.cpp) | Medium |
