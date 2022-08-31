@@ -24,6 +24,6 @@ public:
             }
         }
 
-        return string(result);
+        return string{result};
     }
 };
